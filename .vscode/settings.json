@@ -1,3 +1,13 @@
 {
-  "java.debug.settings.onBuildFailureProceed": true
+  "java.debug.settings.onBuildFailureProceed": true,
+  "markdownlint.enable": false,
+  "[markdown]": {
+    "editor.defaultFormatter": null
+  },
+  "[plaintext]": {
+    "editor.wordWrap": "off"
+  },
+  "files.associations": {
+    "LICENSE": "plaintext"
+  }
 }
