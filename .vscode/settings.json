@@ -7,7 +7,4 @@
   "[plaintext]": {
     "editor.wordWrap": "off"
   },
-  "files.associations": {
-    "LICENSE": "plaintext"
-  }
 }
