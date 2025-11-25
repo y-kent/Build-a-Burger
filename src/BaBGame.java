@@ -30,12 +30,27 @@ public class BaBGame {
         if (text.length() >= width) return text.substring(0, width);
         int padding = (width - text.length()) / 2;
         return " ".repeat(padding) + text + " ".repeat(width - text.length() - padding);
-    } 
+    }
+
+    public static void displayBurgerChefArt() {
+        System.out.println("        ,---.         ,---. ");
+        System.out.println("       / /\"`.\\.--\"\"--./,'\"\\ \\");
+        System.out.println("       \\ \\    _       _    / /");
+        System.out.println("        '-\"\"\"-( 0 ) ( 0 )-\"\"\"-'");
+        System.out.println("             / .-----. \\");
+        System.out.println("            / /       \\ \\");
+        System.out.println("           / /         \\ \\");
+        System.out.println("           \\ \\         / /");
+        System.out.println("            \\ '-------' /");
+        System.out.println("             '--.....--'");
+    }
+     
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
         
         clearConsole();
+        displayBurgerChefArt();
         System.out.println();
         displayHeader("WELCOME TO BaB (Build-a-Burger)");
         System.out.println();
