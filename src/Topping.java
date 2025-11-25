@@ -36,9 +36,9 @@ public class Topping extends Ingredient {
             }
 
             System.out.println();
-            System.out.println("*************************");
+            System.out.println("**************************");
             System.out.println("!!! NOW! (PRESS ENTER) !!!");
-            System.out.println("*************************");
+            System.out.println("**************************");
 
             long startTime = System.currentTimeMillis();
             scanner.nextLine();
@@ -62,3 +62,4 @@ public class Topping extends Ingredient {
         }
     }
 }
+
