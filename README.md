@@ -51,13 +51,12 @@ The project demonstrates core **Object-Oriented Programming (OOP)** principles s
    ```
 2. **Compile the Program**  
    The following command compiles every `.java` file in the directory:
-
    ```bash
    javac *.java
    ```
    *If there are no errors, `.class` files will be created.*
-3. **Run the Main Game File**
-   Start the simulation.
+3. **Run the Main Game File** 
+   Start the simulation.:
    ```bash
    java BaBGame
    ```
