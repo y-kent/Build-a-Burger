@@ -36,7 +36,7 @@ public class CustomerTicket {
              this.requestedIngredients.add(PATTY_DB[0]);
         }
         
-        int numToppings = random.nextInt(4) + 2; 
+        int numToppings = random.nextInt(3) + 1; 
         for (int i = 0; i < numToppings; i++) {
             String topping;
             if (player.hasUnlockedExtras) {
@@ -104,4 +104,5 @@ public class CustomerTicket {
         return false;
     }
 }
+
 
