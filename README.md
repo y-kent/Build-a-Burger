@@ -85,12 +85,12 @@ The project demonstrates core **Object-Oriented Programming (OOP)** principles s
 ## 🖥️ Sample Output
 
 ### 🏁 Start of the Game
-[![Demo](markdown/Start of the Game.gif)](https://github.com/y-kent)
+![Demo](markdown/StartoftheGame.gif)
 
 ### 🎮 Player Menu
 
 ### 🧩 Minigame
-[![Demo](assets/demo.gif)](https://github.com/y-kent)
+[![Demo](markdown/Minigame.gif)](https://github.com/y-kent)
 
 ### 📊 Day Summary
 
