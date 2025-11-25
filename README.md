@@ -31,9 +31,9 @@ The project demonstrates core **Object-Oriented Programming (OOP)** principles s
 │   ├── 📄 CustomerTicket.java   // Generates random orders and names
 │   ├── 📄 Burger.java           // Represents the final assembled product
 │   ├── 📄 Ingredient.java       // Abstract parent class for all food items
-│   ├── 📄 Patty.java        // Subclass: Handles cooking timing minigame
-│   ├── 📄 Topping.java      // Subclass: Handles reaction time minigame
-│   └── 📄 Sauce.java        // Subclass: Handles typing speed minigame
+│   ├── 📄 Patty.java            // Subclass: Handles cooking timing minigame
+│   ├── 📄 Topping.java          // Subclass: Handles reaction time minigame
+│   └── 📄 Sauce.java            // Subclass: Handles typing speed minigame
 ├── 📄 .gitignore
 └── 📄 README.md
 ```
