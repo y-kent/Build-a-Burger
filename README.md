@@ -55,8 +55,8 @@ The project demonstrates core **Object-Oriented Programming (OOP)** principles s
    javac *.java
    ```
    *If there are no errors, `.class` files will be created.*
-3. **Run the Main Game File** 
-   Start the simulation.:
+3. **Run the Main Game File**  
+   Start the simulation:
    ```bash
    java BaBGame
    ```
