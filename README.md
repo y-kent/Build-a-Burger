@@ -34,6 +34,6 @@ Build-a-Burger/
 │   ├── Patty.java        // Subclass: Handles cooking timing minigame
 │   ├── Topping.java      // Subclass: Handles reaction time minigame
 │   └── Sauce.java        // Subclass: Handles typing speed minigame
-├── 
+├── .gitignore
 └── README.md
 ```
