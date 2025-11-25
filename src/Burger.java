@@ -14,8 +14,8 @@ public class Burger {
     public void displayBurger() {
         System.out.println();
         System.out.println("   //============================\\\\");
-        System.out.println("  //       PLAYER'S BURGER      \\\\");
-        System.out.println(" //==============================");
+        System.out.println("  //       PLAYER'S BURGER        \\\\");
+        System.out.println(" //================================\\\\");
         System.out.println();
         System.out.println("   (Top Bun)");
         for (Ingredient item : this.ingredients) {
@@ -32,3 +32,4 @@ public class Burger {
         return this.ingredients;
     }
 }
+
