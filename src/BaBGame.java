@@ -273,7 +273,7 @@ public class BaBGame {
             System.out.print("> ");
             
             String choice = scanner.nextLine();
-            String itemName = "";
+            String itemName;
             
             if (choice.equals("1")) {
                 itemName = "Beef Patty";
@@ -381,3 +381,4 @@ public class BaBGame {
         }
     }
 }
+
