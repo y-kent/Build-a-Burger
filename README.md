@@ -49,8 +49,9 @@ The project demonstrates core **Object-Oriented Programming (OOP)** principles s
    ```bash
    cd path/to/project
    ```
-2. **Compile the Program**
+2. **Compile the Program**  
    The following command compiles every `.java` file in the directory:
+
    ```bash
    javac *.java
    ```
