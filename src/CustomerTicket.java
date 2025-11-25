@@ -63,8 +63,8 @@ public class CustomerTicket {
     
     public void displayOrder() {
         System.out.println("  //============================\\\\");
-        System.out.println(" //       CUSTOMER ORDER       \\\\");
-        System.out.println("//==============================");
+        System.out.println(" //       CUSTOMER ORDER         \\\\");
+        System.out.println("//================================\\\\");
         System.out.println();
         System.out.println("   (Top Bun)");
         for (String item : this.requestedIngredients) {
@@ -104,3 +104,4 @@ public class CustomerTicket {
         return false;
     }
 }
+
