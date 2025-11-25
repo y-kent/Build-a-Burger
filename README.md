@@ -112,8 +112,6 @@ What will you add?
 ----------------------------------
 >
 ```
-### 🧩 Minigame
-<img src="markdown/Minigame.gif" width="600" />
 
 ### 📊 Day Summary
 ```
