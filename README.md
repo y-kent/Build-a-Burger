@@ -37,3 +37,19 @@ The project demonstrates core **Object-Oriented Programming (OOP)** principles s
 ├── 📄 .gitignore
 └── 📄 README.md
 ```
+
+---
+
+## 🚀 How to Run the Program
+
+1. **Open Terminal or Command Prompt**
+   Navigate to the folder where all `.java` source files are stored. You can use commands such as:
+   ```bash
+   cd path/to/project
+   ```
+2. **Compile the Program**
+   The following command compiles every `.java` file in the directory:
+   ```bash
+   javac *.java
+   ```
+   
