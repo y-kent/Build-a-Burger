@@ -85,12 +85,12 @@ The project demonstrates core **Object-Oriented Programming (OOP)** principles s
 ## 🖥️ Sample Output
 
 ### 🏁 Start of the Game
-<img src="markdown/StartoftheGame" width="300" />
+<img src="markdown/StartoftheGame.gif" width="600" />
 
 ### 🎮 Player Menu
 
 ### 🧩 Minigame
-<img src="markdown/Minigame.gif" width="300" />
+<img src="markdown/Minigame.gif" width="600" />
 
 ### 📊 Day Summary
 
