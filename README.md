@@ -88,11 +88,43 @@ The project demonstrates core **Object-Oriented Programming (OOP)** principles s
 <img src="markdown/StartoftheGame.gif" width="600" />
 
 ### 🎮 Player Menu
-
+```
+╔══════════════════════════════════════════════════╗
+║                  BUILD STATION                   ║
+╚══════════════════════════════════════════════════╝
+Remaining items to add:
+  - Beef Patty
+  - Beef Patty
+  - Lettuce
+  - Hot Sauce
+  - Tomatoes
+  - Hot Sauce
+  - Onions
+----------------------------------
+What will you add?
+ 1. Beef Patty
+ 2. Toppings (Lettuce, Cheese, etc.)
+ 3. Sauces (Ketchup, Mustard, etc.)
+ 4. I'M DONE WITH THIS BURGER
+----------------------------------
+>
+```
 ### 🧩 Minigame
 <img src="markdown/Minigame.gif" width="600" />
 
 ### 📊 Day Summary
+```
+╔══════════════════════════════════════════════════╗
+║                   END OF DAY 1                   ║
+╚══════════════════════════════════════════════════╝
+Today's Customer Ratings:
+  Customer 1: 4.5 Stars
+  Customer 2: 5.0 Stars
+----------------------------------
+Daily Average: 4.8 / 5.0 Stars
+
+[Press Enter to continue...]
+```
 
 ---
 
