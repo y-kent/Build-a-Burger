@@ -34,9 +34,9 @@ public class Patty extends Ingredient {
             }
 
             System.out.println();
-            System.out.println("*************************");
+            System.out.println("**********************************");
             System.out.println("!!! IT'S COOKED! (PRESS ENTER) !!!");
-            System.out.println("*************************");
+            System.out.println("**********************************");
 
             long startTime = System.currentTimeMillis();
             scanner.nextLine();
@@ -58,3 +58,4 @@ public class Patty extends Ingredient {
         }
     }
 }
+
