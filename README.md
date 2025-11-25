@@ -1,7 +1,7 @@
 # 🍔 Build-a-Burger (BaB)
 
 ## 📋 Description / Project Overview
-**Build‑a‑Burger (BaB)** is a text‑based, week‑long burger‑making simulation game where the player takes on the role of a burger shop apprentice. Over the course of seven in‑game days, the player prepares ingredients through interactive minigames, assembles customer orders, and earns ratings based on accuracy and quality.
+**Build‑a‑Burger (BaB)** is a text‑based, week‑long burger‑making simulation game where the player takes on the role of a burger shop apprentice. Over the course of seven in‑game days, the player prepares ingredients through interactive minigames, assembles customer orders, and earns ratings based on accuracy and quality. The project demonstrates core OOP principles such as abstraction, inheritance, polymorphism, and encapsulation.
 
 The project demonstrates core **Object-Oriented Programming (OOP)** principles such as abstraction, inheritance, polymorphism, and encapsulation.
 
@@ -24,13 +24,16 @@ The project demonstrates core **Object-Oriented Programming (OOP)** principles s
 
 ```
 Build-a-Burger/
-├── BaBGame.java          // Main entry point; handles game loop and UI
-├── Player.java           // Manages player stats, upgrades, and scores
-├── RatingSystem.java     // Logic for calculating stars based on accuracy/time
-├── CustomerTicket.java   // Generates random orders and names
-├── Burger.java           // Represents the final assembled product
-├── Ingredient.java       // Abstract parent class for all food items
+├── src/
+│   ├── BaBGame.java          // Main entry point; handles game loop and UI
+│   ├── Player.java           // Manages player stats, upgrades, and scores
+│   ├── RatingSystem.java     // Logic for calculating stars based on accuracy/time
+│   ├── CustomerTicket.java   // Generates random orders and names
+│   ├── Burger.java           // Represents the final assembled product
+│   ├── Ingredient.java       // Abstract parent class for all food items
 │   ├── Patty.java        // Subclass: Handles cooking timing minigame
 │   ├── Topping.java      // Subclass: Handles reaction time minigame
 │   └── Sauce.java        // Subclass: Handles typing speed minigame
+├── 
+└── README.md
 ```
