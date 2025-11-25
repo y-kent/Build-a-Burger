@@ -105,10 +105,13 @@ Most of the references used in this project come from our teacher’s official c
 
 ## 👨‍🍳 Authors and Acknowledgment
 
-| Photo | Name | GitHub |
-|:-----:|------|:------:|
-| <img src="https://github.com/y-kent.png" width="60" /> | **Macatangay, Alwyn Kent M.** | [y-kent](https://github.com/y-kent) |
-| <img src="https://github.com/jeilyannnmerhan.png" width="60" /> | **Merhan, Jeily Ann S.** | [jeilyannnmerhan](https://github.com/jeilyannnmerhan) |
-| <img src="https://github.com/Vistoedmar10.png" width="60" /> | **Visto, Edmar D.** | [Vistoedmar10](https://github.com/Vistoedmar10) |
+<div align="center">
+
+| <img src="https://github.com/y-kent.png" width="80" /><br>**Macatangay, Alwyn Kent M.**<br>[y-kent](https://github.com/y-kent) |
+| <img src="https://github.com/jeilyannnmerhan.png" width="80" /><br>**Merhan, Jeily Ann S.**<br>[jeilyannnmerhan](https://github.com/jeilyannnmerhan) |
+| <img src="https://github.com/Vistoedmar10.png" width="80" /><br>**Visto, Edmar D.**<br>[Vistoedmar10](https://github.com/Vistoedmar10) |
+
+</div>
+
 
 
