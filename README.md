@@ -25,15 +25,15 @@ The project demonstrates core **Object-Oriented Programming (OOP)** principles s
 ```
 🍔 Build-a-Burger/
 ├── 📂 src/
-│   ├── 📄 BaBGame.java          // Main entry point; handles game loop and UI
-│   ├── 📄 Player.java           // Manages player stats, upgrades, and scores
-│   ├── 📄 RatingSystem.java     // Logic for calculating stars based on accuracy/time
-│   ├── 📄 CustomerTicket.java   // Generates random orders and names
-│   ├── 📄 Burger.java           // Represents the final assembled product
-│   ├── 📄 Ingredient.java       // Abstract parent class for all food items
-│   ├── 📄 Patty.java            // Subclass: Handles cooking timing minigame
-│   ├── 📄 Topping.java          // Subclass: Handles reaction time minigame
-│   └── 📄 Sauce.java            // Subclass: Handles typing speed minigame
+│   ├── 📄 BaBGame.java          // Main entry point
+│   ├── 📄 Player.java           // Player's stats, upgrades, and scores
+│   ├── 📄 RatingSystem.java     // Calculates stars based on accuracy/time
+│   ├── 📄 CustomerTicket.java   // Generates orders and names
+│   ├── 📄 Burger.java           // Represents the final assembled burger
+│   ├── 📄 Ingredient.java       // Abstract parent class
+│   ├── 📄 Patty.java            // Subclass
+│   ├── 📄 Topping.java          // Subclass
+│   └── 📄 Sauce.java            // Subclass
 ├── 📄 .gitignore
 └── 📄 README.md
 ```
