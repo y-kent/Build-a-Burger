@@ -63,29 +63,22 @@ The project demonstrates core **Object-Oriented Programming (OOP)** principles s
 
 ### 🎮 Gameplay Flow
 
-- 🏁 **Start of the Day**  
-  The game displays the **day banner** and introduces a new customer.
+#### 🕒 Day Progression
+- The game begins by displaying the **day banner** and introducing a customer.
+- You will enter different **minigames** depending on the ingredient being prepared.
+- After assembling the burger, the customer provides a **rating** based on accuracy and timing.
 
-- 🎮 **Ingredient Minigames**  
-  Each ingredient triggers a different minigame you must complete.
+#### 📅 Seven-Day Cycle
+- Gameplay continues for **seven in-game days**, each ending with:
+  - Customer feedback  
+  - A daily summary  
+  - Possible upgrades  
 
-- 🍔 **Burger Assembly**  
-  Once ingredients are ready, you assemble the burger.
-
-- ⭐ **Customer Rating**  
-  The customer scores your performance based on accuracy and timing.
-
-- 🔁 **Daily Cycle (7 Days Total)**  
-  You repeat the process for **seven in-game days**, receiving:
-  - 📋 Daily summaries  
-  - 🔧 Upgrade opportunities  
-
-- 🏆 **Final Results (Day 7 Completion)**  
-  At the end of the final day, you will receive:
+#### 🏆 Final Results (After Day 7)
+- When the seventh day ends, you will receive a complete breakdown of your performance:
   - ⭐ Average ratings  
   - 🏅 Achievements earned  
   - 📊 Overall performance summary  
-
 
 ---
 
