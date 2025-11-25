@@ -52,4 +52,47 @@ The project demonstrates core **Object-Oriented Programming (OOP)** principles s
    ```bash
    javac *.java
    ```
-   
+   *If there are no errors, `.class` files will be created.*
+3. **Run the Main Game File**
+   Start the simulation.
+   ```bash
+   java BaBGame
+   ```
+
+**Gameplay Flow**
+* The program will display the day banner and introduce a customer.
+* You will enter various minigames depending on the ingredient being prepared.
+* After assembling the burger, the customer will rate your work.
+* This repeats for seven in‑game days, with daily summaries and upgrades.
+
+**Gameplay Flow**
+* After Day 7, the game will show your final performance, average ratings, and any achievements earned.
+
+---
+
+## 🖥️ Sample Output
+
+---
+
+## 🔮 Future Enhancement
+
+Future updates to the Build-a-Burger game could include expanding the variety of ingredient types, introducing additional customer personalities, and enhancing the shop progression system with purchasable upgrades. A graphical user interface could also be developed to replace the text-based display, offering a more engaging and visually appealing experience. These improvements would deepen gameplay, increase replay value, and modernize the overall presentation of the project. The next player could also include earnings of the player or any price that they can get after the week-long playing of the game.
+
+---
+
+## 📚 References
+
+Most of the references used in this project come from our teacher’s official course textbook and class materials. These served as the primary foundation for understanding OOP concepts and Java structure.
+
+**Primary Reference**: Ms. Fatima Agdon. Object-Oriented Programming in Java. Batangas State University.
+
+---
+
+## 👨‍🍳 Authors and Acknowledgment
+
+|                                                            | Name                      | GitHub Profile   |
+|------------------------------------------------------------|---------------------------|:----------------:|
+| <img src="https://github.com/y-kent.png" width="60" />     | Macatangay, Alwyn Kent M. | [y-kent](https://github.com/y-kent)                           |
+| <img src="https://github.com/jeilyannnmerhan.png" width="60" />  | Merhan, Jeily Ann S.    | [jeilyannnmerhan](https://github.com/jeilyannnmerhan)  |
+| <img src="https://github.com/Vistoedmar10.png" width="60" /> | Visto, Edmar D.    | [Vistoedmar10](https://github.com/Vistoedmar10) |
+
