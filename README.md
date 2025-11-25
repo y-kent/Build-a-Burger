@@ -42,8 +42,10 @@ The project demonstrates core **Object-Oriented Programming (OOP)** principles s
 
 ## 🚀 How to Run the Program
 
-1. **Open Terminal or Command Prompt**
-   Navigate to the folder where all `.java` source files are stored. You can use commands such as:
+### 🖥️ Running the Program
+
+1. **Open Terminal or Command Prompt**  
+   Navigate to the folder containing all your `.java` source files:  
    ```bash
    cd path/to/project
    ```
@@ -59,14 +61,22 @@ The project demonstrates core **Object-Oriented Programming (OOP)** principles s
    java BaBGame
    ```
 
-**Gameplay Flow**
-* The program will display the day banner and introduce a customer.
-* You will enter various minigames depending on the ingredient being prepared.
-* After assembling the burger, the customer will rate your work.
-* This repeats for seven in‑game days, with daily summaries and upgrades.
+### 🎮 Gameplay Flow
+The game begins by displaying the day banner and introducing a customer.
 
-**Gameplay Flow**
-* After Day 7, the game will show your final performance, average ratings, and any achievements earned.
+You will enter different minigames depending on the ingredient being prepared.
+
+After assembling the burger, the customer gives a rating based on accuracy and timing.
+
+This cycle repeats for seven in-game days, each ending with summaries and possible upgrades.
+
+After Day 7, the game will show your final results, including:
+
+Average ratings
+
+Achievements earned
+
+Overall performance summary
 
 ---
 
