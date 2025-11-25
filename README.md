@@ -24,6 +24,9 @@ The project demonstrates core **Object-Oriented Programming (OOP)** principles s
 
 ```
 🍔 Build-a-Burger/
+├── 📂 markdown/
+│   ├── 🖼️ Minigame.gif
+│   └── 🖼️ StartoftheGame.gif                   
 ├── 📂 src/
 │   ├── 📄 BaBGame.java          // Main entry point
 │   ├── 📄 Player.java           // Player's stats, upgrades, and scores
