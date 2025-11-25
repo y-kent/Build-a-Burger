@@ -28,7 +28,7 @@ The project demonstrates core **Object-Oriented Programming (OOP)** principles s
 │   ├── 🖼️ Minigame.gif
 │   └── 🖼️ StartoftheGame.gif                   
 ├── 📂 src/
-│   ├── 📄 BaBGame.java          // Main entry point
+│   ├── 📄 Main.java             // Main entry point
 │   ├── 📄 Player.java           // Player's stats, upgrades, and scores
 │   ├── 📄 RatingSystem.java     // Calculates stars based on accuracy/time
 │   ├── 📄 CustomerTicket.java   // Generates orders and names
