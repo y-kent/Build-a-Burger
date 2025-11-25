@@ -96,7 +96,10 @@ Future updates to the Build-a-Burger game could include expanding the variety of
 
 Most of the references used in this project come from our teacher’s official course textbook and class materials. These served as the primary foundation for understanding OOP concepts and Java structure.
 
-**Primary Reference**: Ms. Fatima Agdon. Object-Oriented Programming in Java. Batangas State University.
+**Primary Reference:**  
+- **Name:** Ms. Fatima Agdon  
+- **Course Material:** Object-Oriented Programming in Java  
+- **Institution:** Batangas State University  
 
 ---
 
