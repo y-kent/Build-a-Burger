@@ -1,4 +1,4 @@
-# 🍔 Build-a-Burger (BaB)
+![Banner](https://github.com/y-kent/CS121LabAct3CS1203Group5/blob/master/Banner%20Page.png "banner")
 
 ## 📋 Description / Project Overview
 **Build‑a‑Burger (BaB)** is a text‑based, week‑long burger‑making simulation game where the player takes on the role of a burger shop apprentice. Over the course of seven in‑game days, the player prepares ingredients through interactive minigames, assembles customer orders, and earns ratings based on accuracy and quality. The project demonstrates core OOP principles such as abstraction, inheritance, polymorphism, and encapsulation.
