@@ -62,7 +62,7 @@ The project demonstrates core **Object-Oriented Programming (OOP)** principles s
 3. **Run the Main Game File**  
    Start the simulation:
    ```bash
-   java BaBGame
+   java Main
    ```
 
 ### 🎮 Gameplay Flow
