@@ -56,7 +56,7 @@ The project demonstrates core **Object-Oriented Programming (OOP)** principles s
 2. **Compile the Program**  
    The following command compiles every `.java` file in the directory:
    ```bash
-   javac *.java
+   javac -encoding UTF-8 *.java
    ```
    *If there are no errors, `.class` files will be created.*
 3. **Run the Main Game File**  
