@@ -68,7 +68,7 @@ public class Main {
         System.out.println("Welcome, Chef " + player.name + "!");
         pressEnterToContinue(scanner);
         
-        int[] customerCounts = {2, 4, 5, 6, 7, 9, 10};
+        int[] customerCounts = {1, 2, 3, 4, 5, 6, 7};
         
         for (int day = 0; day < 7; day++) {
             clearConsole();
